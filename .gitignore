@@ -8,6 +8,8 @@
 /.bundle
 
 # Ignore all logfiles and tempfiles.
+.idea
+exhale.iml
 /log/*
 /tmp/*
 !/log/.keep
